@@ -1,6 +1,6 @@
-LPLK10367U - Tropical Fruit Production Course Notes 
-- Welcome to the LPLK10367U Course Notes repository! 
-This repository is created for students enrolled in the LPLK10367U course at the University of Copenhagen, covering the period from September 2025 to November 2025.
+NPLK14014U - Fruit and Berry Crop Physiology and Quality Course Notes 
+- Welcome to the NPLK14014U Course Notes repository! 
+This repository is created for students enrolled in the NPLK14014U course at the University of Copenhagen, covering the period from September 2025 to November 2025.
 
 Overview 
 - This repository contains notes and materials relevant to the course. It is intended as a resource for students to enhance their learning experience.
