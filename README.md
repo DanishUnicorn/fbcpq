@@ -1,6 +1,6 @@
-NFOK14019U - Microbiology of Fermented Food and Beverages Course Notes 
-- Welcome to the NFOK14019U Course Notes repository! 
-This repository is created for students enrolled in the NFOK14019U course at the University of Copenhagen, covering the period from September to November 2024.
+NPLK14014U - Fruit and Berry Crop Physiology and Quality Course Notes 
+- Welcome to the NPLK14014U Course Notes repository! 
+This repository is created for students enrolled in the NPLK14014U course at the University of Copenhagen, covering the period from September 2025 to November 2025.
 
 Overview 
 - This repository contains notes and materials relevant to the course. It is intended as a resource for students to enhance their learning experience.
@@ -15,4 +15,4 @@ Disclaimer
 - It is advised to verify the information and consult additional resources where necessary.
 
 Enjoy! 
-- Please enjoy reading the notes and feel free to reach out if you have any questions. Take care! xD
+- Please enjoy reading the notes and feel free to reach out through Git, if you have any questions. Take care! xD
