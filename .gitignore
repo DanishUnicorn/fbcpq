@@ -1,4 +1,13 @@
+# ========================
+# OS & Editor junk
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ========================
 # LaTeX auxiliary and temporary files
+# ========================
 *.aux
 *.bbl
 *.bcf
@@ -8,5 +17,22 @@
 *.log
 *.out
 *.xml
-*.synctex.gz
+*.run.xml
+*.synctex*
 *.toc
+*.lof
+*.lot
+*.nav
+*.snm
+
+# ========================
+# Project-specific
+# ========================
+# Ignore compiled PDFs, but keep Appendices PDFs
+/main.pdf
+fbcpq_project_files/main.pdf
+
+# Optional: ignore backup or temporary files
+*~
+*.bak
+*.tmp
